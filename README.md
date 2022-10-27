@@ -1,2 +1,2 @@
-# frontendmentor_repo
+# qrcode
 practice html, css projects
